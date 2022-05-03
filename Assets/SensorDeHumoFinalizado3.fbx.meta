@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ca83a408922f8aa498db7a31d5d8c339
+guid: be00893076a5b4947b197e9140d9af3e
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -33,6 +33,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: plastico negro
     second: {fileID: 2100000, guid: 958db4d4b1459094085be681ed5d95d6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhatsApp Image 2022-04-27 at 2.20.01 PM
+    second: {fileID: 2800000, guid: bd709a7663d82f54082e687893e2b245, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
